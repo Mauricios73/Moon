@@ -7,5 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release v0.0.1
-- Readme changes v0.0.2
-- Readme changes v0.0.3
+- Readme change v0.0.2
+- Readme change v0.0.3
+- Color change v0.0.4
+- Readme change v0.0.5

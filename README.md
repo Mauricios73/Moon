@@ -6,8 +6,8 @@
 
 ### Developed by: Mauricios73
 
-*GITHUB: https://github.com/Mauricios73
-*INSTAGRAM: https://www.instagram.com/omauricio13/
-*LINKEDIN: https://www.linkedin.com/in/mauricio-portela/
+* GITHUB: https://github.com/Mauricios73
+* INSTAGRAM: https://www.instagram.com/omauricio13/
+* LINKEDIN: https://www.linkedin.com/in/mauricio-portela/
 
 **Enjoy!**
