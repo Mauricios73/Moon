@@ -1,8 +1,8 @@
 {
   "name": "Mauricio",
-  "displayName": "Dark Moon",
-  "description": "The Moon is a dark theme",
-  "version": "0.0.1",
+  "displayName": "ElagentNight",
+  "description": "The ElagentNight is a dark theme",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -21,7 +21,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Moon",
+        "label": "ElagentNight",
         "uiTheme": "vs-dark",
         "path": "./themes/moon-color-theme.json"
       }

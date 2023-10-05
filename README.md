@@ -1,16 +1,13 @@
-# Mauricio README
+# Theme Elegant Night
 
-## Working with Markdown
+## Um tem escuro para seu Visual Studio Code ficar ainda mais estiloso! Aproveite e compartilhe este tema no instagram marcando o @omauricio13
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Theme Elegant Night](https://github.com/Mauricios73/Moon/blob/Moon/vscode.png?raw=true)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### Developer of theme: Mauricios73
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+GITHUB: https://github.com/Mauricios73
+INSTAGRAM: https://www.instagram.com/omauricio13/
+LINKEDIN: https://www.linkedin.com/in/mauricio-portela/
 
 **Enjoy!**

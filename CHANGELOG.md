@@ -6,4 +6,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release V0.0.1
+- Initial release v0.0.1
+- Readme changes v0.0.2
