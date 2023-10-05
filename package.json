@@ -4,7 +4,7 @@
   "description": "The ElegantNight is a dark theme",
   "version": "0.0.3",
   "engines": {
-    "vscode": "^1.83.0"
+    "vscode": "^1.22.0"
   },
   "icon": "icon.jpg",
   "categories": [
