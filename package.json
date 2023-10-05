@@ -1,0 +1,29 @@
+{
+  "name": "Mauricio",
+  "displayName": "Moon",
+  "description": "The Moon is a dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "icon": "icon.jpg",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark", "moon", "mauricio", "theme dark", "dark moon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moon-color-theme.json"
+      }
+    ]
+  }
+}
